@@ -151,6 +151,7 @@
                 <action android:name="me.zhanghai.android.files.intent.action.OPEN_FILE" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <data android:mimeType="*/*" />
+            </intent-filter>
         </activity>
 
         <activity
